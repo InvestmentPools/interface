@@ -1,6 +1,6 @@
 # InvestmentPools: Revolutionize Your DeFi Experience with Web3
 
-Welcome to **InvestmentPools**, the cutting-edge platform where blockchain meets DeFi innovation, leveraging Web3 technology to redefine investment strategies. Our mission: to empower investors through a transparent, decentralized, and community-driven ecosystem.
+Welcome to **InvestmentPools**, a platform enabling decentralized finance (DeFi) investments, where users can create or join various investment pools to diversify their crypto portfolio. Our mission: to empower investors through a transparent, decentralized, and community-driven ecosystem.
 
 ## Why Star InvestmentPools? ⭐
 - 🚀 **Next-Gen DeFi Platform**: Experience state-of-the-art DeFi functionalities.
